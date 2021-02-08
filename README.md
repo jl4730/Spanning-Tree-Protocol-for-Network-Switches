@@ -1,3 +1,6 @@
+# Medium.com writeup
+[link](https://jl4730.medium.com/spanning-tree-protocol-for-network-switches-a6a7e89e7de6)
+
 # Files
 ## Switch.py
 Implement the functionality of the Spanning Tree Protocol to generate a Spanning Tree for each Switch
