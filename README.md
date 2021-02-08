@@ -1,4 +1,7 @@
 # Files
+## Switch.py
+Implement the functionality of the Spanning Tree Protocol to generate a Spanning Tree for each Switch
+
 ## Spanning-Tree-Protocol-for-Network-Switches
 In this project, we will develop a simplified distributed version of the Spanning Tree Protocol that can be run on an arbitrary layer 2 topology.
 
