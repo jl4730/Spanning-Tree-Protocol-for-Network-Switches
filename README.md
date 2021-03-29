@@ -30,7 +30,7 @@ These are topology files that you will pass as input to the run_spanning_tree.py
 ## sample_output.txt
 Example of a valid output file for Sample.py as described in the comments in Switch.py.
 
-# Tesing
+# Testing
 To run your code on a specific topology (SimpleLoopTopo.py in this case) and output the results to a text file (out.txt in this case), execute the following command:
 ```
 python run_spanning_tree.py SimpleLoopTopo out.txt
